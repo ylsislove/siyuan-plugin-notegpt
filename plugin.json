@@ -1,7 +1,7 @@
 {
-  "name": "plugin-sample",
-  "author": "Vanessa",
-  "url": "https://github.com/siyuan-note/plugin-sample",
+  "name": "notegpt",
+  "author": "ylsislove",
+  "url": "https://github.com/ylsislove/notegpt",
   "version": "0.0.1",
   "displayName": {
     "default": "Plugin Sample",
